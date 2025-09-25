@@ -30,19 +30,21 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 keywords = [
 
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship",
+ "Cartoon Moral Stories", "Animated Short Story", "Kids Cartoon Story", "Cartoon Fairy Tale",
 
-"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught",
+"Bedtime Cartoon Story", "Cartoon Story for Kids", "Animated Story in English", "Cartoon Hindi Story",
 
-"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit",
+"Funny Cartoon Story", "Cartoon Life Lesson", "Cartoon Moral Lesson", "Cartoon Animated Episode",
 
-"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story",
+"Cartoon Storytime", "Animated Moral Story", "Cartoon Family Story", "Cartoon Story Channel",
 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity",
+"Cartoon Adventure Story", "Cartoon Story with Lesson", "Cartoon Story for Children", "Cartoon Animation Story",
 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife",
+"Cartoon Friendship Story", "Cartoon Story Educational", "Cartoon Short Film", "Cartoon Motivational Story",
 
-"Cheat Exposed"
+"Animated Story for YouTube", "Cartoon Story with Voice Over", "Cartoon Emotional Story", "Cartoon Story Entertainment",
+
+"Cartoon Story Real Life Lesson", "Cartoon Inspirational Story", "Cartoon Character Story", "Cartoon Comedy Story".
 
 ]
 
