@@ -23,7 +23,7 @@ st.title("YouTube Viral Topics Tool")
 
 # Input Fields
 
-days = st.number_input("Enter Days to Search (1-100):", min_value=1, max_value=100, value=10)
+days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
 
 
 # List of broader keywords
@@ -41,26 +41,6 @@ keywords = [
     "ASMR Mouth Sounds",
     "ASMR Haircut Roleplay",
     "ASMR Sleep Aid",
-    "ASMR Relaxing Sounds",
-    "ASMR Stress Relief",
-    "ASMR Study With Me",
-    "ASMR Soft Spoken",
-    "ASMR Mukbang",
-    "ASMR Massage Roleplay",
-    "ASMR for Anxiety",
-    "ASMR Brain Massage",
-    "ASMR Deep Sleep",
-    "ASMR Ear Cleaning",
-    "ASMR Whispering Story",
-    "ASMR Cozy Sounds",
-    "ASMR Reading Story",
-    "ASMR Tapping and Scratching",
-    "ASMR Gentle Whisper",
-    "ASMR Relaxing Roleplay",
-    "ASMR Trigger Compilation",
-    "ASMR Storytelling",
-    "ASMR Night Sounds",
-    "ASMR Relaxing Voice",
 ]
 
 
@@ -98,7 +78,7 @@ if st.button("Fetch Data"):
 
                 "publishedAfter": start_date,
 
-                "maxResults": 10,
+                "maxResults": 5,
 
                 "key": API_KEY,
 
