@@ -23,7 +23,7 @@ st.title("YouTube Viral Topics Tool")
 
 # Input Fields
 
-days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30, value=5)
+days = st.number_input("Enter Days to Search (1-100):", min_value=1, max_value=100, value=10)
 
 
 # List of broader keywords
@@ -98,7 +98,7 @@ if st.button("Fetch Data"):
 
                 "publishedAfter": start_date,
 
-                "maxResults": 5,
+                "maxResults": 10,
 
                 "key": API_KEY,
 
