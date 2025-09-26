@@ -29,14 +29,39 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 # List of broader keywords
 
 keywords = [
-    "Cartoon Moral Stories",
-    "Animated Short Story",
-    "Kids Cartoon Story",
-    "Cartoon Fairy Tale",
-    "Funny Cartoon Story",
-    "Cartoon Life Lesson",
+    "ASMR Relaxation",
+    "Sleep ASMR",
+    "Whisper ASMR",
+    "Tapping ASMR",
+    "Personal Attention ASMR",
+    "ASMR Roleplay",
+    "ASMR Sounds",
+    "ASMR Triggers",
+    "ASMR Eating Sounds",
+    "ASMR Mouth Sounds",
+    "ASMR Haircut Roleplay",
+    "ASMR Sleep Aid",
+    "ASMR Relaxing Sounds",
+    "ASMR Stress Relief",
+    "ASMR Study With Me",
+    "ASMR Soft Spoken",
+    "ASMR Mukbang",
+    "ASMR Massage Roleplay",
+    "ASMR for Anxiety",
+    "ASMR Brain Massage",
+    "ASMR Deep Sleep",
+    "ASMR Ear Cleaning",
+    "ASMR Whispering Story",
+    "ASMR Cozy Sounds",
+    "ASMR Reading Story",
+    "ASMR Tapping and Scratching",
+    "ASMR Gentle Whisper",
+    "ASMR Relaxing Roleplay",
+    "ASMR Trigger Compilation",
+    "ASMR Storytelling",
+    "ASMR Night Sounds",
+    "ASMR Relaxing Voice",
 ]
-
 
 
 # Fetch Data Button
